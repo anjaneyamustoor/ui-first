@@ -1,0 +1,27 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.colour
+{
+	color: #ffffff;
+}
+.colourtwo
+{
+	color: #000000;
+}
+.body
+{
+	background-size: 100%;
+	background-image: url(backpack2.jpg);
+}
+
+.container{
+	background-size: 100%;
+	background-position: relative;
+}
+.form{
+	position: relative;
+	width: 100%;
+	zoom: 100;
+}
